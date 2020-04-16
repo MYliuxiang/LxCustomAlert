@@ -1,0 +1,27 @@
+{
+  "name": "LxCustomAlert",
+  "version": "0.0.1",
+  "summary": "A short description of LxCustomAlert.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MYliuxiang/LxCustomAlert",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MYliuxiang": "719444625@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/MYliuxiang/LxCustomAlert.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LxCustomAlert/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ]
+  }
+}

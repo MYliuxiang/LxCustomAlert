@@ -1,0 +1,6 @@
+framework module LxCustomAlert {
+  umbrella header "LxCustomAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}
