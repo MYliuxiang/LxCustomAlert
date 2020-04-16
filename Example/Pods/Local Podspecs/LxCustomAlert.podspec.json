@@ -1,6 +1,6 @@
 {
   "name": "LxCustomAlert",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "A short description of LxCustomAlert.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/MYliuxiang/LxCustomAlert",
@@ -13,12 +13,17 @@
   },
   "source": {
     "git": "https://github.com/MYliuxiang/LxCustomAlert.git",
-    "tag": "0.0.1"
+    "tag": "0.0.3"
   },
   "platforms": {
     "ios": "8.0"
   },
   "source_files": "LxCustomAlert/Classes/**/*",
+  "resource_bundles": {
+    "LxCustomAlert": [
+      "LxCustomAlert/Assets/*.png"
+    ]
+  },
   "dependencies": {
     "AFNetworking": [
       "~> 2.3"

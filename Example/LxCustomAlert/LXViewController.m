@@ -7,7 +7,7 @@
 //
 
 #import "LXViewController.h"
-
+#import <LxCustomAlert/LxCustomAlert.h>
 
 @interface LXViewController ()
 

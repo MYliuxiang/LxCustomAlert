@@ -25,7 +25,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - LxCustomAlert (0.0.1):
+  - LxCustomAlert (0.0.3):
     - AFNetworking (~> 2.3)
 
 DEPENDENCIES:
@@ -44,7 +44,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   AFNetworking: 8dd5f9b9691e09186393069a12cc3b5ed7c8b511
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  LxCustomAlert: 4323f144fda28245d6682008cd888dc4a3d0cf34
+  LxCustomAlert: b749eb65299fd0cfe085a4cd5434eaa5e1d527e8
 
 PODFILE CHECKSUM: 49effb8cf6a4fee549e63260622b0dfe6ee4b1ae
 

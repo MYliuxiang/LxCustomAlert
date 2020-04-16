@@ -19,6 +19,7 @@
          self  = [[[NSBundle mainBundle] loadNibNamed:NSStringFromClass([self class]) owner:nil options:nil] lastObject];
 //        _maskView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, kScreenWidth, kScreenHeight)];
         _maskView.backgroundColor = [UIColor colorWithRed:0 green:0 blue:0 alpha:.5];
+        
        
         
     }

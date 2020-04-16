@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LxCustomAlert'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = 'A short description of LxCustomAlert.'
 
 # This description is used to generate tags and improve search results.
@@ -32,9 +32,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'LxCustomAlert/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'LxCustomAlert' => ['LxCustomAlert/Assets/*.png']
-  # }
+  s.resource_bundles = {
+     'LxCustomAlert' => ['LxCustomAlert/Assets/*.png']
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
